@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronometer", "Chronometer\Chronometer.csproj", "{991CC52D-9095-47E9-BF82-E8A31B120256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{92262916-8B09-45D7-87D9-547FC04E91EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{991CC52D-9095-47E9-BF82-E8A31B120256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991CC52D-9095-47E9-BF82-E8A31B120256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991CC52D-9095-47E9-BF82-E8A31B120256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991CC52D-9095-47E9-BF82-E8A31B120256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92262916-8B09-45D7-87D9-547FC04E91EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92262916-8B09-45D7-87D9-547FC04E91EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92262916-8B09-45D7-87D9-547FC04E91EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92262916-8B09-45D7-87D9-547FC04E91EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED279D7A-F70D-401F-AEB0-114DE2DA4DA0}
+	EndGlobalSection
+EndGlobal

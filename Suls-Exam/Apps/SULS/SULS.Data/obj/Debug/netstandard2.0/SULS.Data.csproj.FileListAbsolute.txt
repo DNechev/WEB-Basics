@@ -1,0 +1,11 @@
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.deps.json
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.dll
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.pdb
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.dll
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.pdb
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfo.cs
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CopyComplete
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.dll
+C:\Users\dido9\Desktop\Suls\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.pdb

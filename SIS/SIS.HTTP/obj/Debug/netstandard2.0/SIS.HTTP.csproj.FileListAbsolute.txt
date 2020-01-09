@@ -1,0 +1,8 @@
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.deps.json
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\bin\Debug\netstandard2.0\SIS.HTTP.pdb
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\SIS.HTTP\obj\Debug\netstandard2.0\SIS.HTTP.pdb

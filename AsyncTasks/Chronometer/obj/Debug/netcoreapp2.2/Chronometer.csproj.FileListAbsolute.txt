@@ -1,0 +1,10 @@
+C:\Users\dido9\source\repos\Chronometer\Chronometer\bin\Debug\netcoreapp2.2\Chronometer.deps.json
+C:\Users\dido9\source\repos\Chronometer\Chronometer\bin\Debug\netcoreapp2.2\Chronometer.runtimeconfig.json
+C:\Users\dido9\source\repos\Chronometer\Chronometer\bin\Debug\netcoreapp2.2\Chronometer.runtimeconfig.dev.json
+C:\Users\dido9\source\repos\Chronometer\Chronometer\bin\Debug\netcoreapp2.2\Chronometer.dll
+C:\Users\dido9\source\repos\Chronometer\Chronometer\bin\Debug\netcoreapp2.2\Chronometer.pdb
+C:\Users\dido9\source\repos\Chronometer\Chronometer\obj\Debug\netcoreapp2.2\Chronometer.csprojAssemblyReference.cache
+C:\Users\dido9\source\repos\Chronometer\Chronometer\obj\Debug\netcoreapp2.2\Chronometer.AssemblyInfoInputs.cache
+C:\Users\dido9\source\repos\Chronometer\Chronometer\obj\Debug\netcoreapp2.2\Chronometer.AssemblyInfo.cs
+C:\Users\dido9\source\repos\Chronometer\Chronometer\obj\Debug\netcoreapp2.2\Chronometer.dll
+C:\Users\dido9\source\repos\Chronometer\Chronometer\obj\Debug\netcoreapp2.2\Chronometer.pdb

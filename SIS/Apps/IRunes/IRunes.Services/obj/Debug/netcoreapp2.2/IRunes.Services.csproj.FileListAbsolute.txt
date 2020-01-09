@@ -1,0 +1,13 @@
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.deps.json
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Services.pdb
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Data.pdb
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\bin\Debug\netcoreapp2.2\IRunes.Models.pdb
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.csproj.CopyComplete
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Services\obj\Debug\netcoreapp2.2\IRunes.Services.pdb

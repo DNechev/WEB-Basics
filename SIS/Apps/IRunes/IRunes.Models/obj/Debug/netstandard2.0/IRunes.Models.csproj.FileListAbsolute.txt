@@ -1,0 +1,8 @@
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.deps.json
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\bin\Debug\netstandard2.0\IRunes.Models.pdb
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.csprojAssemblyReference.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfoInputs.cache
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.AssemblyInfo.cs
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.dll
+C:\Users\dido9\Desktop\ExamPrep\Solution\src\Apps\IRunes\IRunes.Models\obj\Debug\netstandard2.0\IRunes.Models.pdb
